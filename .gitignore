@@ -21,3 +21,9 @@ proguard/
 
 # Log Files
 *.log
+
+# From Android Studio
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/captures
