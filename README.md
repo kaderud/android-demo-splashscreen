@@ -3,9 +3,13 @@
 Small sample of a Material design Splash screen
 
 
-This example tries to implement the Material design Launch/Splash screen. It cheats a little by not having all the drawables for various sizes, it only implements xxxhdpi, but it should
-provide a basic app on how to display a splash screen in a theme.
+This example tries to implement the Material design Launch/Splash screen. It cheats a little by not having all the drawables for various sizes, it only implements xxxhdpi, but it should provide a basic app on how to display a splash screen in a theme during cold start loading.
 
+Tested and working on:
+
+ * Nexus 6 (Marshmallow 6.0)
+ * Nexus S (Jelly Bean 4.1.2)
+ * Samsung Galaxy S4+ (Lollipop 5.0.1)
 
 ## Links
 
