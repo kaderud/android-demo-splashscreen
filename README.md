@@ -9,5 +9,9 @@ provide a basic app on how to display a splash screen in a theme.
 
 ## Links
 
-[Google Material design](https://www.google.com/design/spec/patterns/launch-screens.html)
-[Use cold start time effectively with a branded launch theme](https://plus.google.com/+AndroidDevelopers/posts/Z1Wwainpjhd?linkId=17769888)
+ * [Google Material design](https://www.google.com/design/spec/patterns/launch-screens.html)
+ * [Use cold start time effectively with a branded launch theme](https://plus.google.com/+AndroidDevelopers/posts/Z1Wwainpjhd?linkId=17769888)
+
+## Screenshot
+
+![](https://github.com/kaderud/android-demo-splashscreen/blob/master/splashscreen.gif)
