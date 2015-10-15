@@ -1,5 +1,7 @@
 # Android Demo - Splash screen
 
+[![Build Status](https://travis-ci.org/kaderud/android-demo-splashscreen.svg?branch=master)](https://travis-ci.org/kaderud/android-demo-splashscreen)
+
 Small sample of a Material design Splash screen
 
 
